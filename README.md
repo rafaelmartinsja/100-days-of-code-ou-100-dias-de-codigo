@@ -1,5 +1,4 @@
 # Desafio dos 100 dias
---
 ## Em busca criação de bons hábitos e práticas na programação, vamos codar todos os dias!
 &nbsp;
 ### <p>_*Hey, Devs e Devas!!*_ No intuito de formar e fortalecer nosso grupo de estudos, os *TecnoCrias*, iremos iniciar a jornada em busca de desáfios diários pelos próximos 100 dias. #100DiasDeCodigo #100DaysOfCode #TecnoCrias</p>
