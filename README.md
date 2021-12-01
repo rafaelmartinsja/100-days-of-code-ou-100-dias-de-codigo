@@ -15,6 +15,7 @@
 
 ## Semanas 1 - 2
 Desafios para praticar HTML e os comandos mais utilizados no GitHub.
+Day 01 - Assistindo as aulas extras da plataforma tecnogueto 3/8
 </div>
 
 #
