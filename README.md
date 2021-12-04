@@ -13,12 +13,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style = "margin-right: 16px">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
-## Semanas 1 - 2
-Desafios para praticar HTML e os comandos mais utilizados no GitHub.
-Day 01 - Assistindo as aulas extras da plataforma tecnogueto 3/8
-</div>
+## Day by Day
 
-#
+#Day 01 - Assistindo as aulas extras da plataforma tecnogueto 4/8
+
+</div>
+## Semanas 1 - 2
 <div>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
