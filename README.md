@@ -18,7 +18,8 @@
 #Day 01 - Assistindo as aulas extras da plataforma tecnogueto 4/8.
 #Day 02 - Assistindo as aulas extras da plataforma tecnogueto 5/8, hoje mais sobre javascript na qual eu aprendi que se eu setar um valor = 4 estou atribuíndo um valor a ela se for valor === 4 (3x o símbolo =) estou realizando uma verificação no estilo: Será que isso é isso mesmo? Mas se eu setar valor == 4 estou realizando uma checagem do valor. Const = São valores que são imutáveis eu não posso usar valor = 4 pois dará erro, pois é uma constante. Let é uma variável mutável mas ter um problema se eu verificar valor = 4 estou atribuindo o 4 a variável valor. Por isso teria que usar == ou ===. 
 #Day 03 - Assistindo as aulas extras da plataforma tecnogueto 6/8, Aula muito boa sobre Alexa sua aplicabilidade, funções e desenvolmento de uma aplicação em aula.
-#Day 04 - Assistindo as aulas extras da plataforma tecnogueto 7/8, Aula sobre lógica de programação em JS.
+#Day 04 - Assistindo as aulas extras da plataforma tecnogueto 7/8, Aula sobre lógica de programação em JS.#Day 04 - Assistindo as aulas extras da plataforma tecnogueto 7/8, Aula sobre lógica de programação em JS.
+#Day 05 - Aprendendo sobre o Visual Studio Code.
 
 </div>
 ## Semanas 1 - 2
