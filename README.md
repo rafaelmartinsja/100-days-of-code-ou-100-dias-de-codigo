@@ -20,6 +20,7 @@
 #Day 03 - Assistindo as aulas extras da plataforma tecnogueto 6/8, Aula muito boa sobre Alexa sua aplicabilidade, funções e desenvolmento de uma aplicação em aula.
 #Day 04 - Assistindo as aulas extras da plataforma tecnogueto 7/8, Aula sobre lógica de programação em JS.#Day 04 - Assistindo as aulas extras da plataforma tecnogueto 7/8, Aula sobre lógica de programação em JS.
 #Day 05 - Aprendendo sobre o Visual Studio Code.
+#Day 06 - Instalei uma extenção do visual studio code, para deixar os tabs coloridos, facilitando a identificação do código. Vendo aulas do curso (parte de javascript), podcasts (alura) de tecnologia.
 
 </div>
 ## Semanas 1 - 2
